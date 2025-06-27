@@ -85,7 +85,7 @@ Use `Example_Sensor_Calibration.xlsx` to:
 This project was developed as part of a school community service program under PKM MAN IC (Pengabdian Kepada Masyarakat Madrasah Aliyah Negeri Insan Cendekia). Special thanks to the school and students involved in the solar energy education program.
 
 ## 📬 Contact
-- GitHub: @Lunardy2509
+- GitHub: [@Lunardy2509](https://github.com/Lunardy2509)
 - Email: ferdilunardy@gmail.com
 
 If this helped your solar learning journey, please consider giving a ⭐️ and sharing with fellow makers!
