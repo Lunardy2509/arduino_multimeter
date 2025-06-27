@@ -89,7 +89,7 @@ This project was developed as part of a school community service program under P
 - Email: ferdilunardy@gmail.com
 
 If this helped your solar learning journey, please consider giving a ⭐️ and sharing with fellow makers!
-```markdown
+
 ---
 
 Let me know if you want:
