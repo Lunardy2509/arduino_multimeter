@@ -1,0 +1,26 @@
+# 🛠️ Force Arduino/C++ file types
+*.ino linguist-language=C++
+*.cpp linguist-language=C++
+*.c linguist-language=C++
+*.h linguist-language=C++
+
+# 📄 Mark docs and guides correctly
+/docs/** linguist-documentation
+/documentation/** linguist-documentation
+
+# 🧪 Treat test code as vendored (optional)
+/tests/** linguist-vendored
+
+# 📐 Exclude design, schematics, or exported files
+3D\ design/** linguist-vendored
+circuit\ schematics/** linguist-vendored
+
+# 🖼️ Ignore common graphics or generated files
+*.ps linguist-generated
+*.eps linguist-generated
+*.svg linguist-generated
+
+# 🧩 If there’s Perl/Prolog-like files in .pl, reassign or ignore
+*.pl linguist-language=Perl
+# Or if they're not source code, use:
+# *.pl linguist-detectable=false
