@@ -1,3 +1,12 @@
+<details>
+<summary>📸 Click to view system diagrams and setup photos</summary>
+
+| Diagram | Hardware | Display |
+|--------|----------|---------|
+| ![1](https://github.com/Lunardy2509/arduino_multimeter/blob/main/documentation/WhatsApp%20Image%202024-11-13%20at%2011.24.08_102a96aa.jpg) | ![2](https://github.com/Lunardy2509/arduino_multimeter/blob/main/documentation/IMG-20240329-WA0021.jpg) | ![3](https://github.com/Lunardy2509/arduino_multimeter/blob/main/documentation/WhatsApp%20Image%202024-11-13%20at%2011.24.09_79977006.jpg) |
+
+</details>
+
 # 🔧 Arduino-Based Multimeter for Solar Power Monitoring
 
 This is an open-source Arduino project designed to function as a **custom multimeter** capable of measuring DC and AC current (up to 5A) for solar PV systems. Developed under the *PKM MAN IC* initiative, this project supports solar education by enabling students to monitor real-time voltage, current, and power (watts) in small-scale solar setups.
