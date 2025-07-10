@@ -1,6 +1,8 @@
 <details>
 <summary>Click to view Documentation Images</summary>
-
+  
+| | | |
+|---|---|---|
 | ![1](https://github.com/Lunardy2509/arduino_multimeter/blob/main/documentation/WhatsApp%20Image%202024-11-13%20at%2011.24.08_102a96aa.jpg) | ![2](https://github.com/Lunardy2509/arduino_multimeter/blob/main/documentation/IMG-20240329-WA0021.jpg) | ![3](https://github.com/Lunardy2509/arduino_multimeter/blob/main/documentation/WhatsApp%20Image%202024-11-13%20at%2011.24.09_79977006.jpg) |
 
 </details>
